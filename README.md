@@ -4,7 +4,7 @@ We are in the middle of a pandemic, all we need to do is to help each other. Bad
 
 Here you can check the availability of the beds, oxygen cylinders, plasma and all the other resources that can help you or someone you know.   
 
-<font size ="5" color ="red"><b>Hospitals' Contact Information : </b></font>
+<font size ="3" color ="red"><b>Hospitals' Contact Information : </b></font>
 
 
 श्री अनुराग डिंगलीवाल | लिंक हॉस्पिटल ग्वालियर |7999771250
