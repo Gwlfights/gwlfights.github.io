@@ -6,6 +6,7 @@ Here you can check the availability of the beds, oxygen cylinders, plasma and al
 
 <font size ="3" color ="red"><b>Hospitals' Contact Information : </b></font>
 
+<b>Doctor Name | Hospital Name | Contact Number</b>
 
 श्री अनुराग डिंगलीवाल | लिंक हॉस्पिटल ग्वालियर |7999771250
 
